@@ -10,9 +10,6 @@
 
 ## My Current Obsession
 - [Svelet](https://github.com/rahgadda/Svelte)
-- [Python](https://github.com/rahgadda/Python)
-- [Deeplearning](https://github.com/rahgadda/Deeplearning)
-- [Others](https://github.com/rahgadda?tab=repositories)
 
 <br/>
 
