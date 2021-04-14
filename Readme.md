@@ -21,7 +21,7 @@
 ### Oracle Financial Services
 #### Principal Product Manager, May-2016 to Current
 - **Product Manager** for Oracle Financials Lending and Leasing [OFSLL].
-- Identify market trends in Lending and Leasing [Auto, Mortgage, Timeshare, Handset Leasing, ].
+- Identify market trends in Lending and Leasing [Auto, Mortgage, Timeshare, Handset Leasing, Asset Financing].
 - **Techno-Functional Product Manager:** Understand business & technology. 
 - **Roadmap:** Design and create next-generation cloud-native banking products.
 - **Sprint Lead:** Work as a connection between customer and developer to design, develop and deliver features into the product.
